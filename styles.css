@@ -103,7 +103,7 @@
 
 .cert-image {
     display: block;
-    max-width: 100%; /* Ajusta al contenedor */
+    max-width: 50%; /* Ajusta al contenedor */
     height: auto; /* Mantiene la relación de aspecto */
     border: 1px solid #ccc; /* Bordes opcionales */
     border-radius: 5px; /* Bordes redondeados opcionales */
